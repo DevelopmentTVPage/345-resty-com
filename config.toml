@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "Resty"
+baseURL = "https:\/\/resty.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758799"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "resty.com"
